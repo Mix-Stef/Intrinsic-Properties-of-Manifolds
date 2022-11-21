@@ -7,7 +7,7 @@ Given a Riemannian Metric defined on a manifold, compute as many *intrinsic* pro
 
 
 The metric is a symmetric bilinear form that when restricted on the tangent space of the manifold defines an inner product.
- $$g: T_{p}\mathcal{M} \times T_{p} \mathcal{M} \rightarrow \mathbb{R}$$Essentially, it is a $n \times n$ symmetric matrix, where $n$ is the dimension of the manifold (or, equivalently, of the tangent space).\\
+ $g: T_{p}\mathcal{M} \times T_{p} \mathcal{M} \rightarrow \mathbb{R}$Essentially, it is a $n \times n$ symmetric matrix, where $n$ is the dimension of the manifold (or, equivalently, of the tangent space).\\
  
  
  

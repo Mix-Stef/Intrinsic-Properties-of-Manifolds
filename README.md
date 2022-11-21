@@ -12,7 +12,7 @@ The metric is a symmetric bilinear form that when restricted on the tangent spac
  
  Given a Riemannian Metric, one can compute -using local coordinates on a manifold- the following quantities:
  
-* Christoffel Symbols
+* Christoffel Symbols: Functions that describe how the basis vectors change. They are not tensors. In local coordinates they can be computed by using the metric as follows $\displaystyle \Gamma_{ij}^{k} = \frac{1}{2} \sum_{m=1}^{n} g^{km} \Big( \frac{\partial g_{jm}}{\partial x^{i}} + \frac{\partial g_{mi}}{\partial x^{j}} - \frac{\partial g_{ij}}{\partial x^{k}}       \Big)$
 
  
  

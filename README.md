@@ -12,9 +12,8 @@ The metric is a symmetric bilinear form that when restricted on the tangent spac
  
  Given a Riemannian Metric, one can compute -using local coordinates on a manifold- the following quantities:
  
- \begin{itemize}
- \item Christoffel Symbols
- \end{itemize}
+* Christoffel Symbols
+
  
  
  

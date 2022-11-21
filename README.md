@@ -20,11 +20,8 @@ The Riemannian metric is a symmetric bilinear form of rank 2 that when restricte
 * Euler Characteristic: A very important topological invariant of a manifold. For regular polyhedra we have Euler's polyhedron formula: $V-E+F=2$. For compact manifold with-or-without boundary one can use the Gauss-Bonnet formula: $$\displaystyle \int_{\mathcal{M}} K dA + \int_{\partial \mathcal{M}} k_{g} ds = 2 \pi \chi$$
 
 
-In this notebook we study the simple cases of the 2-sphere and the 2-torus. We define the metric on the sphere:
-$\begin{bmatrix}
-R^{2}&0\\ 
-0&R^{2} \sin^{2}(\theta) 
-\end{bmatrix}$
+In this notebook we study the simple cases of the 2-sphere and the 2-torus. The metric for the 2-sphere is defined by the [usual parametrization](http://www.physics.usu.edu/Wheeler/GenRel/Lectures/2Sphere.pdf). So does for the [torus](https://www.cefns.nau.edu/~schulz/torus.pdf). For the sphere, $\theta \in \[0, 2\pi)$ and $\phi \in \[0, \pi)$
+
 
  
  

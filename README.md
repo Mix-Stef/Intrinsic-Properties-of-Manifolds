@@ -1,4 +1,4 @@
-# Intrinsic-Properties-of-Manifolds
+# Intrinsic Properties of Manifolds
 Using SymPy (Python's symbolic computation package, version 1.11.1) to compute as many intrinsic properties of a manifold as possible.
 
 #### Goal:
